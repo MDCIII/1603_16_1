@@ -1,0 +1,43 @@
+{
+  "name": "1603",
+  "profile": "data-package-catalog",
+  "resources": [
+    {
+      "name": "1603_16_1_0",
+      "path": "1603/16/1/0/1603_16_1_0.no1.tm.hxl.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "type": "string"
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "type": "string"
+          },
+          {
+            "name": "#country+code+v_unm49",
+            "type": "string"
+          },
+          {
+            "name": "#meta+source+cod_ab_level",
+            "type": "string"
+          },
+          {
+            "name": "#country+code+v_iso3",
+            "type": "string"
+          },
+          {
+            "name": "#country+code+v_iso2",
+            "type": "string"
+          }
+        ]
+      },
+      "stats": {
+        "fields": 6,
+        "rows": 479
+      }
+    }
+  ]
+}

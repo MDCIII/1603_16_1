@@ -1,0 +1,182 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "la"
+    }
+  ],
+  "tables": [
+    {
+      "url": "1603/1/1/1603_1_1.no1.tm.hxl.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "datatype": "string"
+          },
+          {
+            "name": "#status+conceptum+definitionem",
+            "datatype": "string"
+          },
+          {
+            "name": "#status+conceptum+codicem",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_n1603",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_n1603ia",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_regex",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_n1603op",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikiq",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_mul+is_zyyy",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_mul+is_zyyy+ix_trivium",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_mul+is_zyyy+ix_trivium+ix_iri",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_lat+is_latn",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_arb+is_arab",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_rus+is_cyrl",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_ben+is_beng",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_codexfacto",
+            "datatype": "string"
+          }
+        ],
+        "foreignKeys": []
+      }
+    },
+    {
+      "url": "1603/1/51/1603_1_51.no1.tm.hxl.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "datatype": "string"
+          },
+          {
+            "name": "#status+conceptum+definitionem",
+            "datatype": "string"
+          },
+          {
+            "name": "#status+conceptum+codicem",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_uid",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_csvsffxm",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_hxla",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_lat+is_latn",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikiq+ix_linguam",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikiq+ix_scriptum",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikilngm",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_glottocode",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso639p3a3",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_codexfacto",
+            "datatype": "string"
+          }
+        ],
+        "foreignKeys": []
+      }
+    },
+    {
+      "url": "1603/16/1/0/1603_16_1_0.no1.tm.hxl.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "datatype": "string"
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "datatype": "string"
+          },
+          {
+            "name": "#country+code+v_unm49",
+            "datatype": "string"
+          },
+          {
+            "name": "#meta+source+cod_ab_level",
+            "datatype": "string"
+          },
+          {
+            "name": "#country+code+v_iso3",
+            "datatype": "string"
+          },
+          {
+            "name": "#country+code+v_iso2",
+            "datatype": "string"
+          }
+        ],
+        "foreignKeys": []
+      }
+    }
+  ]
+}

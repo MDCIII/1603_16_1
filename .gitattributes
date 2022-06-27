@@ -1,0 +1,3 @@
+*.csv linguist-detectable=true
+*.ttl linguist-detectable=true
+*.owl linguist-detectable=true

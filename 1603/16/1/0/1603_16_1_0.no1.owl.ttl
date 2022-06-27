@@ -312,7 +312,7 @@
   rdfs:label "(1603:16:50:3)" .
 
 <urn:mdciii:1603:16:50:4> a skos:Collection ;
-  rdfs:label "1603:16:50:4()" .
+  rdfs:label "(1603:16:50:4)" .
 
 <urn:mdciii:1603:16:51()> a skos:Collection ;
   rdfs:label "(1603:16:51:0)" ;
@@ -687,7 +687,7 @@
   rdfs:label "(1603:16:144:3)" .
 
 <urn:mdciii:1603:16:144:4> a skos:Collection ;
-  rdfs:label "1603:16:144:4()" .
+  rdfs:label "(1603:16:144:4)" .
 
 <urn:mdciii:1603:16:148()> a skos:Collection ;
   rdfs:label "(1603:16:148:0)" ;
@@ -933,7 +933,7 @@
   rdfs:label "(1603:16:214:3)" .
 
 <urn:mdciii:1603:16:214:4> a skos:Collection ;
-  rdfs:label "1603:16:214:4()" .
+  rdfs:label "(1603:16:214:4)" .
 
 <urn:mdciii:1603:16:218()> a skos:Collection ;
   rdfs:label "(1603:16:218:0)" ;
@@ -1407,7 +1407,7 @@
   rdfs:label "(1603:16:360:3)" .
 
 <urn:mdciii:1603:16:360:4> a skos:Collection ;
-  rdfs:label "1603:16:360:4()" .
+  rdfs:label "(1603:16:360:4)" .
 
 <urn:mdciii:1603:16:364()> a skos:Collection ;
   rdfs:label "(1603:16:364:0)" ;
@@ -1686,7 +1686,7 @@
   rdfs:label "(1603:16:450:3)" .
 
 <urn:mdciii:1603:16:450:4> a skos:Collection ;
-  rdfs:label "1603:16:450:4()" .
+  rdfs:label "(1603:16:450:4)" .
 
 <urn:mdciii:1603:16:454()> a skos:Collection ;
   rdfs:label "(1603:16:454:0)" ;
@@ -2469,7 +2469,7 @@
   rdfs:label "(1603:16:694:3)" .
 
 <urn:mdciii:1603:16:694:4> a skos:Collection ;
-  rdfs:label "1603:16:694:4()" .
+  rdfs:label "(1603:16:694:4)" .
 
 <urn:mdciii:1603:16:703()> a skos:Collection ;
   rdfs:label "(1603:16:703:0)" ;
@@ -2547,7 +2547,7 @@
   rdfs:label "(1603:16:710:3)" .
 
 <urn:mdciii:1603:16:710:4> a skos:Collection ;
-  rdfs:label "1603:16:710:4()" .
+  rdfs:label "(1603:16:710:4)" .
 
 <urn:mdciii:1603:16:716()> a skos:Collection ;
   rdfs:label "(1603:16:716:0)" ;
@@ -2811,7 +2811,7 @@
   rdfs:label "(1603:16:800:3)" .
 
 <urn:mdciii:1603:16:800:4> a skos:Collection ;
-  rdfs:label "1603:16:800:4()" .
+  rdfs:label "(1603:16:800:4)" .
 
 <urn:mdciii:1603:16:804()> a skos:Collection ;
   rdfs:label "(1603:16:804:0)" ;

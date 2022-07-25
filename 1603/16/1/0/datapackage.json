@@ -1,0 +1,2314 @@
+{
+  "name": "1603_16_1_0",
+  "resources": [
+    {
+      "name": "1603_16_1_0.no1.bcp47.csv",
+      "path": "1603_16_1_0.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatnumerordinatio-anop-sU2200-s1603-snop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-aOBO-abfo29-anop-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp2082-ps5000-x-unm49",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-x-zzcodablevel",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp298-ps5000-x-iso3166p1a3",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp297-ps5000-x-iso3166p1a2",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp299-ps5000-x-iso3166p1n",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp300-ps5000-x-iso3166p2",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp3916-ps5000-x-unescothes",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8061-ps5000-x-unagrovoc",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp402-ps5000-x-xzosmrel",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1566-ps5000-x-xzgeonames",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp5400-ps5000-x-jpgeolod",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8814-ps5000-x-usworldnet",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9948-ps5000-x-usfactbook",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9100-ps5000-x-xzgithubt",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq43649390-ps5000-x-wikiq",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 18,
+        "rows": 200
+      }
+    },
+    {
+      "name": "1603_16_1_0.no11.bcp47.csv",
+      "path": "1603_16_1_0.no11.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp2082-ps5000-x-unm49",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-x-zzcodablevel",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp298-ps5000-x-iso3166p1a3",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp297-ps5000-x-iso3166p1a2",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp299-ps5000-x-iso3166p1n",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp300-ps5000-x-iso3166p2",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp3916-ps5000-x-unescothes",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8061-ps5000-x-unagrovoc",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp402-ps5000-x-xzosmrel",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1566-ps5000-x-xzgeonames",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp5400-ps5000-x-jpgeolod",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8814-ps5000-x-usworldnet",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9948-ps5000-x-usfactbook",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9100-ps5000-x-xzgithubt",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq43649390-ps5000-x-wikiq",
+            "type": "string"
+          },
+          {
+            "name": "ara-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hye-Armn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ben-Beng-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rus-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hin-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "amh-Ethi-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kat-Geor-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "grc-Grek-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "guj-Gujr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pan-Guru-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kan-Knda-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kor-Hang-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lzh-Hant-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "heb-Hebr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "khm-Khmr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lao-Laoo-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lat-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mni-Mtei-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mnw-Mymr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nqo-Nkoo-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sat-Olck-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ori-Orya-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sin-Sinh-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tam-Taml-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tel-Telu-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "div-Thaa-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tha-Thai-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bod-Tibt-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "san-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "zho-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "por-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "eng-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fra-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nld-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "deu-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "spa-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ita-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gle-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "swe-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ceb-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sqi-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pol-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fin-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ron-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vie-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "cat-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ukr-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bul-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "slv-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "war-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nob-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ces-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "dan-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "jpn-Jpan-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nno-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mal-Mlym-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ind-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fas-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hun-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "eus-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "cym-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "glg-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "slk-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "epo-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "msa-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "est-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hrv-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tur-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nds-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "oci-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "zho-Hans-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bre-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "arz-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "afr-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ltz-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sco-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bar-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "arg-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "zho-Hant-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pap-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "cos-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gsw-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "isl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "min-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "roh-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vec-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pms-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "scn-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "srd-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gla-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lim-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "wln-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "srp-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vls-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nap-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lij-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fur-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pcd-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "wol-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kon-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "frp-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "wuu-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "srp-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "urd-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gan-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lit-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gan-Hans-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hbs-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lav-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bos-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "srn-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "azb-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "jav-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ell-Grek-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sun-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fry-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ace-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "jam-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "che-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bel-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kab-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "fao-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vmf-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bam-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "frc-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "prg-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lmo-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mar-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ady-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ary-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "awa-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ban-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ast-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bcl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bho-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bpy-Beng-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bxr-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "cdo-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "diq-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "dsb-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ext-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gcr-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "gom-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "frr-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hak-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hif-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hsb-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hyw-Armn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ilo-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "inh-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaa-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kbd-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kbp-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mai-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mhr-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mwl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mzn-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nah-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nan-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "new-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pam-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pfl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pnb-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rue-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rup-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sah-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sgs-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "shi-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "shn-Mymr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "smn-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "stq-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "szl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tcy-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "udm-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vep-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "vro-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "yue-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "crh-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "crh-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lad-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lez-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "swa-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "zha-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "yor-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "yid-Hebr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "xho-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "uzb-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "uig-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "uig-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "uig-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tat-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tat-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tat-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tso-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tgl-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tuk-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "abk-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "asm-Beng-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ava-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "aze-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "aze-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bak-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "bis-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "chv-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "grn-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "glv-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hau-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "hat-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "xmf-Geor-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kaz-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kal-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "krc-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kur-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kur-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kur-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "ckb-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "sdh-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kpv-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "koi-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "cor-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kir-Zyyy-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kir-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kir-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lld-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "lin-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mlg-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mkd-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mon-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mlt-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "mya-Mymr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "tvn-Mymr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "rki-Mymr-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nep-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "dty-Deva-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "nav-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "oss-Cyrl-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "pus-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "que-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "kin-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "snd-Arab-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+      },
+      "stats": {
+        "fields": 261,
+        "rows": 200
+      }
+    },
+    {
+      "name": "1603_16_1_0.no11.tm.hxl.csv",
+      "path": "1603_16_1_0.no11.tm.hxl.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+rdf_a_obo_bfo29+rdf_s_u2200_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unm49+rdf_p_wdata_p2082_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_zzcodablevel",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1a3+rdf_p_wdata_p298_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1a2+rdf_p_wdata_p297_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1n+rdf_p_wdata_p299_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p2+rdf_p_wdata_p300_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unescothes+rdf_p_wdata_p3916_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unagrovoc+rdf_p_wdata_p8061_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzosmrel+rdf_p_wdata_p402_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzgeonames+rdf_p_wdata_p1566_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_jpgeolod+rdf_p_wdata_p5400_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_usworldnet+rdf_p_wdata_p8814_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_usfactbook+rdf_p_wdata_p9948_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzgithubt+rdf_p_wdata_p9100_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikiq+rdf_p_wdata_q43649390_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ara+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hye+is_armn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ben+is_beng+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_rus+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hin+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_amh+is_ethi+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kat+is_geor+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_grc+is_grek+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_guj+is_gujr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pan+is_guru+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kan+is_knda+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kor+is_hang+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lzh+is_hant+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_heb+is_hebr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_khm+is_khmr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lao+is_laoo+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lat+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mni+is_mtei+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mnw+is_mymr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nqo+is_nkoo+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sat+is_olck+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ori+is_orya+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sin+is_sinh+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tam+is_taml+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tel+is_telu+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_div+is_thaa+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tha+is_thai+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bod+is_tibt+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_san+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_zho+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_por+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_eng+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fra+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nld+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_deu+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ita+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gle+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_swe+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ceb+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sqi+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pol+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fin+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ron+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vie+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_cat+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ukr+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bul+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_slv+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_war+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nob+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ces+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_dan+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_jpn+is_jpan+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nno+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mal+is_mlym+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ind+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fas+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hun+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_eus+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_cym+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_glg+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_slk+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_epo+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_msa+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_est+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hrv+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tur+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nds+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_oci+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_zho+is_hans+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bre+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_arz+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_afr+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ltz+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sco+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bar+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_arg+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_zho+is_hant+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pap+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_cos+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gsw+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_isl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_min+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_roh+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vec+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pms+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_scn+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_srd+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gla+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lim+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_wln+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_srp+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vls+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nap+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lij+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fur+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pcd+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_wol+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kon+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_frp+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_wuu+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_srp+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_urd+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gan+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lit+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gan+is_hans+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hbs+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lav+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bos+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_srn+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_azb+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_jav+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ell+is_grek+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sun+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fry+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ace+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_jam+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_che+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bel+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kab+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_fao+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vmf+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bam+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_frc+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_prg+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lmo+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mar+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ady+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ary+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_awa+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ban+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ast+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bcl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bho+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bpy+is_beng+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bxr+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_cdo+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_diq+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_dsb+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ext+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gcr+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_gom+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_frr+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hak+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hif+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hsb+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hyw+is_armn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ilo+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_inh+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kaa+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kbd+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kbp+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mai+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mhr+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mwl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mzn+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nah+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nan+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_new+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pam+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pfl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pnb+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_rue+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_rup+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sah+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sgs+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_shi+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_shn+is_mymr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_smn+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_stq+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_szl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tcy+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_udm+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vep+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_vro+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_yue+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_crh+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_crh+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lad+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lez+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_swa+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_zha+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_yor+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_yid+is_hebr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_xho+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_uzb+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_uig+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_uig+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_uig+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tat+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tat+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tat+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tso+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tgl+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tuk+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_abk+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_asm+is_beng+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ava+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_aze+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_aze+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bak+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_bis+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_chv+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_grn+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_glv+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hau+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_hat+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_xmf+is_geor+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kaz+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kaz+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kaz+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kaz+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kal+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_krc+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kur+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kur+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kur+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_ckb+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_sdh+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kpv+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_koi+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_cor+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kir+is_zyyy+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kir+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kir+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lld+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_lin+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mlg+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mkd+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mon+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mlt+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_mya+is_mymr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_tvn+is_mymr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_rki+is_mymr+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nep+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_dty+is_deva+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_nav+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_oss+is_cyrl+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_pus+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_que+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_kin+is_latn+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_snd+is_arab+rdf_p_skos_prefLabel_s5000",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "#item+conceptum+codicem"
+      },
+      "stats": {
+        "fields": 261,
+        "rows": 200
+      }
+    },
+    {
+      "name": "1603_16_1_0.no1.tm.hxl.csv",
+      "path": "1603_16_1_0.no1.tm.hxl.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "#item+conceptum+numerordinatio",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "#item+conceptum+codicem",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+rdf_a_obo_bfo29+rdf_s_u2200_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unm49+rdf_p_wdata_p2082_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_zzcodablevel",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1a3+rdf_p_wdata_p298_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1a2+rdf_p_wdata_p297_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p1n+rdf_p_wdata_p299_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_iso3166p2+rdf_p_wdata_p300_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unescothes+rdf_p_wdata_p3916_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_unagrovoc+rdf_p_wdata_p8061_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzosmrel+rdf_p_wdata_p402_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzgeonames+rdf_p_wdata_p1566_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_jpgeolod+rdf_p_wdata_p5400_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_usworldnet+rdf_p_wdata_p8814_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_usfactbook+rdf_p_wdata_p9948_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_xzgithubt+rdf_p_wdata_p9100_s5000",
+            "type": "string"
+          },
+          {
+            "name": "#item+rem+i_qcc+is_zxxx+ix_wikiq+rdf_p_wdata_q43649390_s5000",
+            "type": "string"
+          }
+        ],
+        "primaryKey": "#item+conceptum+codicem"
+      },
+      "stats": {
+        "fields": 18,
+        "rows": 200
+      }
+    }
+  ]
+}

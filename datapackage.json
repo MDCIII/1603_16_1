@@ -1,42 +1,96 @@
 {
   "name": "1603",
-  "profile": "data-package-catalog",
   "resources": [
     {
       "name": "1603_16_1_0",
-      "path": "1603/16/1/0/1603_16_1_0.no1.tm.hxl.csv",
+      "path": "1603/16/1/0/1603_16_1_0.no1.bcp47.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "name": "#item+conceptum+numerordinatio",
+            "name": "qcc-Zxxx-r-aMDCIII-alatnumerordinatio-anop-sU2200-s1603-snop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
+          },
+          {
+            "name": "qcc-Zxxx-r-aOBO-abfo29-anop-sU2200-s5000-snop",
             "type": "string"
           },
           {
-            "name": "#item+conceptum+codicem",
+            "name": "qcc-Zxxx-r-pWDATA-pp2082-ps5000-x-unm49",
             "type": "string"
           },
           {
-            "name": "#country+code+v_unm49",
+            "name": "qcc-Zxxx-x-zzcodablevel",
             "type": "string"
           },
           {
-            "name": "#meta+source+cod_ab_level",
+            "name": "qcc-Zxxx-r-pWDATA-pp298-ps5000-x-iso3166p1a3",
             "type": "string"
           },
           {
-            "name": "#country+code+v_iso3",
+            "name": "qcc-Zxxx-r-pWDATA-pp297-ps5000-x-iso3166p1a2",
             "type": "string"
           },
           {
-            "name": "#country+code+v_iso2",
+            "name": "qcc-Zxxx-r-pWDATA-pp299-ps5000-x-iso3166p1n",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp300-ps5000-x-iso3166p2",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp3916-ps5000-x-unescothes",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8061-ps5000-x-unagrovoc",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp402-ps5000-x-xzosmrel",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp1566-ps5000-x-xzgeonames",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp5400-ps5000-x-jpgeolod",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp8814-ps5000-x-usworldnet",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9948-ps5000-x-usfactbook",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pp9100-ps5000-x-xzgithubt",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq43649390-ps5000-x-wikiq",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
-        "fields": 6,
-        "rows": 479
+        "fields": 18,
+        "rows": 200
       }
     }
   ]

@@ -82,6 +82,10 @@
             "type": "string"
           },
           {
+            "name": "qcc-Zxxx-r-pWDATA-pp625-ps5000-x-zzwgs84point",
+            "type": "string"
+          },
+          {
             "name": "qcc-Zxxx-r-pWDATA-pq43649390-ps5000-x-wikiq",
             "type": "string"
           }
@@ -89,7 +93,7 @@
         "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
-        "fields": 18,
+        "fields": 19,
         "rows": 200
       }
     }

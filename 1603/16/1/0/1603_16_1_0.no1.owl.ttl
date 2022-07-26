@@ -24,6 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept894" ;
     wdata:P402 "186382" ;
     wdata:P5400 "rbEC52" ;
+    wdata:P625 "Point(25.5 42.75)" ;
     wdata:P8061 "c_1145" ;
     wdata:P8814 "08731965-n" ;
     wdata:P9100 "bulgaria" ;
@@ -51,6 +52,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept14426" ;
     wdata:P402 "50371" ;
     wdata:P5400 "zrargl" ;
+    wdata:P625 "Point(96.0 22.0)" ;
     wdata:P8061 "c_1155" ;
     wdata:P8814 "08733223-n" ;
     wdata:P9100 "myanmar" ;
@@ -78,6 +80,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept694" ;
     wdata:P402 "195269" ;
     wdata:P5400 "yZBgdb" ;
+    wdata:P625 "Point(29.816667 -3.666667)" ;
     wdata:P8814 "08734052-n" ;
     wdata:P9100 "burundi" ;
     wdata:P9948 "burundi" ;
@@ -104,6 +107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept892" ;
     wdata:P402 "59065" ;
     wdata:P5400 "oJwN3n" ;
+    wdata:P625 "Point(28.046666666 53.528333333)" ;
     wdata:P8814 "09033521-n" ;
     wdata:P9100 "belarus" ;
     wdata:P9948 "belarus" ;
@@ -130,6 +134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept818" ;
     wdata:P402 "49898" ;
     wdata:P5400 "zFsn2c" ;
+    wdata:P625 "Point(105.0 12.6)" ;
     wdata:P8814 "08734571-n" ;
     wdata:P9100 "cambodia" ;
     wdata:P9948 "cambodia" ;
@@ -162,6 +167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept695" ;
     wdata:P402 "192830" ;
     wdata:P5400 "9NuBC6" ;
+    wdata:P625 "Point(12.0 7.0)" ;
     wdata:P8061 "c_1229" ;
     wdata:P8814 "08735042-n" ;
     wdata:P9100 "cameroon" ;
@@ -189,6 +195,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept766" ;
     wdata:P402 "1428125" ;
     wdata:P5400 "1ZxXtX" ;
+    wdata:P625 "Point(-109.0 56.0)" ;
     wdata:P8061 "c_1236" ;
     wdata:P8814 "08837973-n" ;
     wdata:P9100 "canada" ;
@@ -210,6 +217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept689" ;
     wdata:P402 "192756" ;
     wdata:P5400 "Wc9Xkj" ;
+    wdata:P625 "Point(1.0 28.0)" ;
     wdata:P8814 "08723211-n" ;
     wdata:P9100 "algeria" ;
     wdata:P9948 "algeria" ;
@@ -236,6 +244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept696" ;
     wdata:P402 "535774" ;
     wdata:P5400 "JVwQc0" ;
+    wdata:P625 "Point(-24.083333333 15.916666666)" ;
     wdata:P8061 "c_1267" ;
     wdata:P8814 "08735748-n" ;
     wdata:P9100 "cape-verde" ;
@@ -280,6 +289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept698" ;
     wdata:P402 "192790" ;
     wdata:P5400 "FUpyf0" ;
+    wdata:P625 "Point(20.9 6.7)" ;
     wdata:P8061 "c_1433" ;
     wdata:P8814 "08736410-n" ;
     wdata:P9948 "central-african-republic" ;
@@ -306,6 +316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept869" ;
     wdata:P402 "536807" ;
     wdata:P5400 "d8KMK5" ;
+    wdata:P625 "Point(81.0 7.0)" ;
     wdata:P8814 "08736933-n" ;
     wdata:P9100 "sri-lanka" ;
     wdata:P9948 "sri-lanka" ;
@@ -332,6 +343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept699" ;
     wdata:P402 "2361304" ;
     wdata:P5400 "XYqFwX" ;
+    wdata:P625 "Point(19.4 15.466667)" ;
     wdata:P8814 "08737870-n" ;
     wdata:P9948 "chad" ;
     wdata:Q43649390 "Q657" ;
@@ -357,6 +369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept770" ;
     wdata:P402 "167454" ;
     wdata:P5400 "NImcn9" ;
+    wdata:P625 "Point(-71.0 -33.0)" ;
     wdata:P8814 "08738314-n" ;
     wdata:P9100 "chile" ;
     wdata:P9948 "chile" ;
@@ -382,6 +395,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P299 "156" ;
     wdata:P402 "270056" ;
     wdata:P5400 "nQoqX3" ;
+    wdata:P625 "Point(103.451944444 35.844722222)" ;
     wdata:P8814 "08740839-n" ;
     wdata:P9100 "china" ;
     wdata:P9948 "china" ;
@@ -408,6 +422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept771" ;
     wdata:P402 "120027" ;
     wdata:P5400 "Kn61fa" ;
+    wdata:P625 "Point(-73.25 4.0)" ;
     wdata:P8814 "08749949-n" ;
     wdata:P9100 "colombia" ;
     wdata:P9948 "colombia" ;
@@ -433,6 +448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P299 "174" ;
     wdata:P3916 "concept700" ;
     wdata:P402 "535790" ;
+    wdata:P625 "Point(44.44553 -12.23333)" ;
     wdata:P8814 "08751730-n" ;
     wdata:P9948 "comoros" ;
     wdata:Q43649390 "Q970" ;
@@ -458,6 +474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept701" ;
     wdata:P402 "192794" ;
     wdata:P5400 "sj4TXd" ;
+    wdata:P625 "Point(15.383330555 -0.75)" ;
     wdata:P8061 "c_1811" ;
     wdata:P8814 "08751877-n" ;
     wdata:P9100 "republic-of-the-congo" ;
@@ -485,6 +502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept702" ;
     wdata:P402 "192795" ;
     wdata:P5400 "af3MFg" ;
+    wdata:P625 "Point(23.656 -2.88)" ;
     wdata:P8061 "c_8500" ;
     wdata:P8814 "08752218-n" ;
     wdata:P9948 "congo-democratic-republic-of-the" ;
@@ -511,6 +529,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept820" ;
     wdata:P402 "2184233" ;
     wdata:P5400 "F1hc8G" ;
+    wdata:P625 "Point(-159.783333333 -21.233333333)" ;
     wdata:P9948 "cook-islands" ;
     wdata:Q43649390 "Q26988" ;
 .
@@ -535,6 +554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept772" ;
     wdata:P402 "287667" ;
     wdata:P5400 "UDauoY" ;
+    wdata:P625 "Point(-84.0 10.0)" ;
     wdata:P8061 "c_1920" ;
     wdata:P8814 "08753940-n" ;
     wdata:P9100 "costa-rica" ;
@@ -562,6 +582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept896" ;
     wdata:P402 "214885" ;
     wdata:P5400 "MPdQgP" ;
+    wdata:P625 "Point(15.466667 45.25)" ;
     wdata:P8814 "08833710-n" ;
     wdata:P9100 "croatia" ;
     wdata:P9948 "croatia" ;
@@ -588,6 +609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept773" ;
     wdata:P402 "307833" ;
     wdata:P5400 "ppnTSo" ;
+    wdata:P625 "Point(-79.5 22.0)" ;
     wdata:P8814 "08767984-n|08768167-n" ;
     wdata:P9100 "cuba" ;
     wdata:P9948 "cuba" ;
@@ -614,6 +636,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept897" ;
     wdata:P402 "307787" ;
     wdata:P5400 "Htp1al" ;
+    wdata:P625 "Point(33.0 35.0)" ;
     wdata:P8814 "08774717-n" ;
     wdata:P9100 "cyprus" ;
     wdata:P9948 "cyprus" ;
@@ -646,6 +669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept7343" ;
     wdata:P402 "51684" ;
     wdata:P5400 "g2rMOU" ;
+    wdata:P625 "Point(16.0 49.5)" ;
     wdata:P8814 "08775097-n" ;
     wdata:P9100 "czech-republic" ;
     wdata:P9948 "czechia" ;
@@ -672,6 +696,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept691" ;
     wdata:P402 "192784" ;
     wdata:P5400 "YRz1Dh" ;
+    wdata:P625 "Point(2.183333333 8.833333333)" ;
     wdata:P8061 "c_875" ;
     wdata:P8814 "08777253-n" ;
     wdata:P9100 "benin" ;
@@ -699,6 +724,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept7367" ;
     wdata:P402 "50046" ;
     wdata:P5400 "dAjXNf" ;
+    wdata:P625 "Point(10.0 56.0)" ;
     wdata:P8061 "c_2185" ;
     wdata:P8814 "08779077-n" ;
     wdata:P9100 "denmark" ;
@@ -720,6 +746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept2368" ;
     wdata:P402 "9407" ;
     wdata:P5400 "bO3fAB" ;
+    wdata:P625 "Point(1.555277777 42.558333333)" ;
     wdata:P8814 "09045488-n" ;
     wdata:P9100 "andorra" ;
     wdata:P9948 "andorra" ;
@@ -746,6 +773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept774" ;
     wdata:P402 "307823" ;
     wdata:P5400 "logBVo" ;
+    wdata:P625 "Point(-61.333333 15.416667)" ;
     wdata:P8814 "08781026-n|08780843-n" ;
     wdata:P9100 "dominica" ;
     wdata:P9948 "dominica" ;
@@ -772,6 +800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept775" ;
     wdata:P402 "307828" ;
     wdata:P5400 "3kfuDr" ;
+    wdata:P625 "Point(-70.2 18.8)" ;
     wdata:P8814 "08769854-n" ;
     wdata:P9100 "dominican-republic" ;
     wdata:P9948 "dominican-republic" ;
@@ -798,6 +827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept776" ;
     wdata:P402 "108089" ;
     wdata:P5400 "6TNBxh" ;
+    wdata:P625 "Point(-78.0 -1.0)" ;
     wdata:P8061 "c_2485" ;
     wdata:P8814 "08794520-n" ;
     wdata:P9100 "ecuador" ;
@@ -825,6 +855,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept777" ;
     wdata:P402 "1520612" ;
     wdata:P5400 "EzI15w" ;
+    wdata:P625 "Point(-88.866111 13.668889)" ;
     wdata:P8814 "08756105-n" ;
     wdata:P9100 "el-salvador" ;
     wdata:P9948 "el-salvador" ;
@@ -851,6 +882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept709" ;
     wdata:P402 "192800" ;
     wdata:P5400 "eHKfFq" ;
+    wdata:P625 "Point(40.0 9.0)" ;
     wdata:P8061 "c_2676" ;
     wdata:P8814 "08795913-n|09724520-n" ;
     wdata:P9100 "ethiopia" ;
@@ -878,6 +910,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept708" ;
     wdata:P402 "296961" ;
     wdata:P5400 "WDJ8nt" ;
+    wdata:P625 "Point(38.25 15.483333)" ;
     wdata:P8061 "c_34927" ;
     wdata:P8814 "08795396-n" ;
     wdata:P9100 "eritrea" ;
@@ -905,6 +938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept900" ;
     wdata:P402 "79510" ;
     wdata:P5400 "wLLmXn" ;
+    wdata:P625 "Point(26.0 59.0)" ;
     wdata:P8061 "c_10672" ;
     wdata:P8814 "09034667-n" ;
     wdata:P9100 "eesti|estonia" ;
@@ -938,6 +972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept823" ;
     wdata:P402 "571747" ;
     wdata:P5400 "bzLjOK" ;
+    wdata:P625 "Point(178.0 -18.0)" ;
     wdata:P8814 "08797001-n" ;
     wdata:P9948 "fiji" ;
     wdata:Q43649390 "Q712" ;
@@ -963,6 +998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept10480" ;
     wdata:P402 "54224" ;
     wdata:P5400 "BrJ5eQ" ;
+    wdata:P625 "Point(27.0 65.0)" ;
     wdata:P8814 "08797356-n" ;
     wdata:P9100 "finland" ;
     wdata:P9948 "finland" ;
@@ -983,6 +1019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept690" ;
     wdata:P402 "195267" ;
     wdata:P5400 "LW5uav" ;
+    wdata:P625 "Point(17.35 -12.35)" ;
     wdata:P8061 "c_417" ;
     wdata:P8814 "08725731-n" ;
     wdata:P9100 "angola" ;
@@ -1010,6 +1047,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept902" ;
     wdata:P402 "2202162" ;
     wdata:P5400 "JfFJmZ" ;
+    wdata:P625 "Point(2.0 47.0)" ;
     wdata:P8814 "08949695-n" ;
     wdata:P9100 "france" ;
     wdata:P9948 "france" ;
@@ -1053,6 +1091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept704" ;
     wdata:P402 "192801" ;
     wdata:P5400 "7MVXDB" ;
+    wdata:P625 "Point(42.433333 11.8)" ;
     wdata:P8814 "08780328-n" ;
     wdata:P9100 "djibouti" ;
     wdata:P9948 "djibouti" ;
@@ -1113,6 +1152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept711" ;
     wdata:P402 "192774" ;
     wdata:P5400 "RJtuk9" ;
+    wdata:P625 "Point(-15.5 13.5)" ;
     wdata:P8061 "c_3177" ;
     wdata:P8814 "08965594-n" ;
     wdata:P9948 "gambia-the" ;
@@ -1156,6 +1196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept904" ;
     wdata:P402 "51477" ;
     wdata:P5400 "VwiQvi" ;
+    wdata:P625 "Point(10.0 51.0)" ;
     wdata:P8814 "08784821-n" ;
     wdata:P9100 "deutschland" ;
     wdata:Q43649390 "Q183" ;
@@ -1187,6 +1228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept712" ;
     wdata:P402 "192781" ;
     wdata:P5400 "k3z4LU" ;
+    wdata:P625 "Point(-0.5 8.0)" ;
     wdata:P8061 "c_3253" ;
     wdata:P8814 "08965960-n" ;
     wdata:P9100 "ghana" ;
@@ -1208,6 +1250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept756" ;
     wdata:P402 "536900" ;
     wdata:P5400 "tS4mSy" ;
+    wdata:P625 "Point(-61.85 17.116666666)" ;
     wdata:P8814 "08727537-n" ;
     wdata:P9948 "antigua-and-barbuda" ;
     wdata:Q43649390 "Q781" ;
@@ -1233,6 +1276,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept838" ;
     wdata:P402 "571178" ;
     wdata:P5400 "PhlFiu" ;
+    wdata:P625 "Point(173.033333333 1.466666666)" ;
     wdata:P8814 "08859741-n" ;
     wdata:P9948 "kiribati" ;
     wdata:Q43649390 "Q710" ;
@@ -1258,6 +1302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept907" ;
     wdata:P402 "192307" ;
     wdata:P5400 "7lmMAr" ;
+    wdata:P625 "Point(23.0 38.5)" ;
     wdata:P8061 "c_3373" ;
     wdata:P8814 "08798733-n" ;
     wdata:P9100 "greece" ;
@@ -1285,6 +1330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept779" ;
     wdata:P402 "550727" ;
     wdata:P5400 "4TeXyM" ;
+    wdata:P625 "Point(-61.666667 12.116667)" ;
     wdata:P8814 "08966682-n" ;
     wdata:P9100 "grenada" ;
     wdata:P9948 "grenada" ;
@@ -1351,6 +1397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept781" ;
     wdata:P402 "1521463" ;
     wdata:P5400 "f9jqIA" ;
+    wdata:P625 "Point(-90.25 15.5)" ;
     wdata:P8814 "08754874-n|09731591-n" ;
     wdata:P9100 "guatemala" ;
     wdata:P9948 "guatemala" ;
@@ -1377,6 +1424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept713" ;
     wdata:P402 "192778" ;
     wdata:P5400 "hBrfKf" ;
+    wdata:P625 "Point(-11.0 10.0)" ;
     wdata:P8061 "c_3423" ;
     wdata:P8814 "08967092-n" ;
     wdata:P9100 "guinea" ;
@@ -1404,6 +1452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept782" ;
     wdata:P402 "287083" ;
     wdata:P5400 "cfCqDL" ;
+    wdata:P625 "Point(-59.316667 5.733333)" ;
     wdata:P8061 "c_3445" ;
     wdata:P8814 "08968119-n" ;
     wdata:P9100 "guyana" ;
@@ -1425,6 +1474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept757" ;
     wdata:P402 "286393" ;
     wdata:P5400 "E88Q2m" ;
+    wdata:P625 "Point(-64.0 -34.0)" ;
     wdata:P8814 "08729807-n" ;
     wdata:P9100 "argentina" ;
     wdata:P9948 "argentina" ;
@@ -1451,6 +1501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept783" ;
     wdata:P402 "307829" ;
     wdata:P5400 "gu0XS4" ;
+    wdata:P625 "Point(-72.8 19.0)" ;
     wdata:P8814 "08769150-n|08769327-n" ;
     wdata:P9100 "haiti" ;
     wdata:P9948 "haiti" ;
@@ -1477,6 +1528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept784" ;
     wdata:P402 "287670" ;
     wdata:P5400 "M9mJrO" ;
+    wdata:P625 "Point(-86.816667 14.633333)" ;
     wdata:P8061 "c_3651" ;
     wdata:P8814 "08755549-n" ;
     wdata:P9100 "honduras" ;
@@ -1504,6 +1556,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept908" ;
     wdata:P402 "21335" ;
     wdata:P5400 "3LOFGB" ;
+    wdata:P625 "Point(19.0 47.0)" ;
     wdata:P8814 "08971963-n" ;
     wdata:P9100 "hungary" ;
     wdata:P9948 "hungary" ;
@@ -1530,6 +1583,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept12132" ;
     wdata:P402 "299133" ;
     wdata:P5400 "GAgF41" ;
+    wdata:P625 "Point(-19.0 65.0)" ;
     wdata:P8061 "c_3785" ;
     wdata:P8814 "08973097-n" ;
     wdata:P9100 "iceland" ;
@@ -1557,6 +1611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept12233" ;
     wdata:P402 "304716" ;
     wdata:P5400 "9lVqyW" ;
+    wdata:P625 "Point(83.0 22.8)" ;
     wdata:P8061 "c_3825" ;
     wdata:P8814 "08920762-n" ;
     wdata:P9100 "india" ;
@@ -1590,6 +1645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept830" ;
     wdata:P402 "304751" ;
     wdata:P5400 "RhUjgZ" ;
+    wdata:P625 "Point(118.0 -2.0)" ;
     wdata:P8814 "08927379-n" ;
     wdata:P9100 "indonesia" ;
     wdata:P9948 "indonesia" ;
@@ -1616,6 +1672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept831|concept832" ;
     wdata:P402 "304938" ;
     wdata:P5400 "rpWxQT" ;
+    wdata:P625 "Point(53.0 32.0)" ;
     wdata:P8814 "08930441-n" ;
     wdata:P9100 "iran" ;
     wdata:P9948 "iran" ;
@@ -1642,6 +1699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept833" ;
     wdata:P402 "304934" ;
     wdata:P5400 "JtXF8Q" ;
+    wdata:P625 "Point(43.0 33.0)" ;
     wdata:P8814 "08933207-n" ;
     wdata:P9100 "iraq" ;
     wdata:P9948 "iraq" ;
@@ -1662,6 +1720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept814" ;
     wdata:P402 "80500" ;
     wdata:P5400 "mvGTNz" ;
+    wdata:P625 "Point(137.0 -28.0)" ;
     wdata:P8814 "08849996-n" ;
     wdata:P9100 "australia" ;
     wdata:P9948 "australia" ;
@@ -1688,6 +1747,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept909" ;
     wdata:P402 "62273" ;
     wdata:P5400 "owfxM4" ;
+    wdata:P625 "Point(-8.0 53.0)" ;
     wdata:P8814 "08908903-n" ;
     wdata:P9100 "ireland" ;
     wdata:P9948 "ireland" ;
@@ -1714,6 +1774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept834" ;
     wdata:P402 "1473946" ;
     wdata:P5400 "jBZTIK" ;
+    wdata:P625 "Point(35.0 31.0)" ;
     wdata:P8814 "08810400-n" ;
     wdata:P9100 "israel" ;
     wdata:P9948 "israel" ;
@@ -1740,6 +1801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept910" ;
     wdata:P402 "365331" ;
     wdata:P5400 "1xYMqN" ;
+    wdata:P625 "Point(12.5 42.5)" ;
     wdata:P8061 "c_4026" ;
     wdata:P8814 "08819530-n" ;
     wdata:P9100 "italy" ;
@@ -1767,6 +1829,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept703" ;
     wdata:P402 "192779" ;
     wdata:P5400 "kv8fP4" ;
+    wdata:P625 "Point(-6.0 8.0)" ;
     wdata:P8061 "c_4027" ;
     wdata:P8814 "08754350-n" ;
     wdata:P9948 "cote-divoire" ;
@@ -1793,6 +1856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept785" ;
     wdata:P402 "555017|7117041" ;
     wdata:P5400 "PIUQlE" ;
+    wdata:P625 "Point(-77.4 18.18)" ;
     wdata:P8814 "08771766-n" ;
     wdata:P9100 "jamaica" ;
     wdata:P9948 "jamaica" ;
@@ -1819,6 +1883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept835" ;
     wdata:P402 "382313" ;
     wdata:P5400 "zSJCjv" ;
+    wdata:P625 "Point(136.0 35.0)" ;
     wdata:P8061 "c_4039" ;
     wdata:P8814 "08941623-n" ;
     wdata:P9100 "japan" ;
@@ -1846,6 +1911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept837" ;
     wdata:P402 "214665" ;
     wdata:P5400 "UbBjlO" ;
+    wdata:P625 "Point(68.0 48.0)" ;
     wdata:P8061 "c_11952" ;
     wdata:P8814 "09042096-n" ;
     wdata:P9100 "kazakhstan" ;
@@ -1885,6 +1951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept836" ;
     wdata:P402 "184818" ;
     wdata:P5400 "mIY94S" ;
+    wdata:P625 "Point(36.5 31.2)" ;
     wdata:P8061 "c_4053" ;
     wdata:P8814 "08946959-n" ;
     wdata:P9100 "jordan" ;
@@ -1912,6 +1979,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept715" ;
     wdata:P402 "192798" ;
     wdata:P5400 "cHbBGV" ;
+    wdata:P625 "Point(38.0 0.1)" ;
     wdata:P8814 "08947966-n" ;
     wdata:P9100 "kenya" ;
     wdata:P9948 "kenya" ;
@@ -1938,6 +2006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept6629" ;
     wdata:P402 "192734" ;
     wdata:P5400 "pCF99H" ;
+    wdata:P625 "Point(127.0 40.0)" ;
     wdata:P8814 "08974855-n" ;
     wdata:P9100 "north-korea" ;
     wdata:P9948 "korea-north" ;
@@ -1958,6 +2027,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept890" ;
     wdata:P402 "16239" ;
     wdata:P5400 "4rFMvC" ;
+    wdata:P625 "Point(14.0 48.0)" ;
     wdata:P8061 "c_718" ;
     wdata:P8814 "08864547-n" ;
     wdata:P9100 "austria" ;
@@ -1985,6 +2055,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept839" ;
     wdata:P402 "307756" ;
     wdata:P5400 "8ev8GL|HGGgrE" ;
+    wdata:P625 "Point(128.0 36.0)" ;
     wdata:P8814 "08975399-n" ;
     wdata:P9100 "south-korea" ;
     wdata:P9948 "korea-south" ;
@@ -2011,6 +2082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept841" ;
     wdata:P402 "178009" ;
     wdata:P5400 "xdky0x" ;
+    wdata:P625 "Point(75.0 41.0)" ;
     wdata:P8061 "c_33243" ;
     wdata:P8814 "09042810-n" ;
     wdata:P9100 "kyrgyzstan" ;
@@ -2038,6 +2110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept842" ;
     wdata:P402 "49903" ;
     wdata:P5400 "4EX1MV" ;
+    wdata:P625 "Point(104.1 18.2)" ;
     wdata:P8814 "08976533-n" ;
     wdata:P9100 "laos" ;
     wdata:P9948 "laos" ;
@@ -2064,6 +2137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept843" ;
     wdata:P402 "184843" ;
     wdata:P5400 "a0LQTp" ;
+    wdata:P625 "Point(35.766667 33.833333)" ;
     wdata:P8814 "08977154-n" ;
     wdata:P9100 "lebanon" ;
     wdata:P9948 "lebanon" ;
@@ -2090,6 +2164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept716" ;
     wdata:P402 "2093234" ;
     wdata:P5400 "s4MYbm" ;
+    wdata:P625 "Point(28.25 -29.55)" ;
     wdata:P8061 "c_4284" ;
     wdata:P8814 "08978603-n" ;
     wdata:P9100 "lesotho" ;
@@ -2117,6 +2192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept911" ;
     wdata:P402 "72594" ;
     wdata:P5400 "MAVUuY" ;
+    wdata:P625 "Point(25.0 57.0)" ;
     wdata:P8061 "c_12103" ;
     wdata:P8814 "09035444-n" ;
     wdata:P9100 "latvia" ;
@@ -2144,6 +2220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept717" ;
     wdata:P402 "192780" ;
     wdata:P5400 "CkRrla" ;
+    wdata:P625 "Point(-9.75 6.533333)" ;
     wdata:P8061 "c_4307" ;
     wdata:P8814 "08979027-n" ;
     wdata:P9100 "liberia" ;
@@ -2171,6 +2248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept718" ;
     wdata:P402 "192758" ;
     wdata:P5400 "csTFV4" ;
+    wdata:P625 "Point(17.0 27.0)" ;
     wdata:P8814 "08979456-n" ;
     wdata:P9100 "libya" ;
     wdata:P9948 "libya" ;
@@ -2197,6 +2275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept13448" ;
     wdata:P402 "1155955" ;
     wdata:P5400 "UoSyD7" ;
+    wdata:P625 "Point(9.553889 47.145)" ;
     wdata:P8814 "08980321-n" ;
     wdata:P9100 "liechtenstein" ;
     wdata:P9948 "liechtenstein" ;
@@ -2229,6 +2308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept912" ;
     wdata:P402 "72596" ;
     wdata:P5400 "uwUNd1" ;
+    wdata:P625 "Point(24.0 55.2)" ;
     wdata:P8061 "c_12204" ;
     wdata:P8814 "09036200-n" ;
     wdata:P9100 "lietuva|lithuania" ;
@@ -2250,6 +2330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept759" ;
     wdata:P402 "547469" ;
     wdata:P5400 "O9Vnqj" ;
+    wdata:P625 "Point(-77.4 25.0)" ;
     wdata:P8814 "08866260-n" ;
     wdata:P9948 "bahamas-the" ;
     wdata:Q43649390 "Q778" ;
@@ -2275,6 +2356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept719" ;
     wdata:P402 "447325" ;
     wdata:P5400 "TXjnzX" ;
+    wdata:P625 "Point(47.0 -20.0)" ;
     wdata:P8814 "08981743-n|08981960-n" ;
     wdata:P9100 "madagascar" ;
     wdata:P9948 "madagascar" ;
@@ -2301,6 +2383,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept9796" ;
     wdata:P402 "195290" ;
     wdata:P5400 "BTigi0" ;
+    wdata:P625 "Point(34.0 -13.0)" ;
     wdata:P8061 "c_4532" ;
     wdata:P8814 "08982383-n" ;
     wdata:P9100 "malawi" ;
@@ -2328,6 +2411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept846" ;
     wdata:P402 "2108121" ;
     wdata:P5400 "JHeUq9" ;
+    wdata:P625 "Point(102.314361666 3.7805111)" ;
     wdata:P8814 "08983142-n" ;
     wdata:P9100 "malaysia" ;
     wdata:P9948 "malaysia" ;
@@ -2354,6 +2438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept847" ;
     wdata:P402 "536773" ;
     wdata:P5400 "P33JwD" ;
+    wdata:P625 "Point(73.51 4.18)" ;
     wdata:P8814 "08987602-n" ;
     wdata:P9100 "maldives" ;
     wdata:P9948 "maldives" ;
@@ -2380,6 +2465,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept720" ;
     wdata:P402 "192785" ;
     wdata:P5400 "jPh903" ;
+    wdata:P625 "Point(-4.0 17.0)" ;
     wdata:P8061 "c_4540" ;
     wdata:P8814 "08987949-n" ;
     wdata:P9100 "mali" ;
@@ -2407,6 +2493,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept914" ;
     wdata:P402 "365307" ;
     wdata:P5400 "1Lg1I6" ;
+    wdata:P625 "Point(14.5 35.883333333)" ;
     wdata:P8814 "08988759-n|08988590-n" ;
     wdata:P9100 "malta" ;
     wdata:P9948 "malta" ;
@@ -2450,6 +2537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept721" ;
     wdata:P402 "192763|2695812" ;
     wdata:P5400 "774QOA" ;
+    wdata:P625 "Point(-11.0 21.0)" ;
     wdata:P8814 "08989171-n" ;
     wdata:P9948 "mauritania" ;
     wdata:Q43649390 "Q1025" ;
@@ -2498,6 +2586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept787" ;
     wdata:P402 "114686" ;
     wdata:P5400 "hn9jYo" ;
+    wdata:P625 "Point(-102.0 23.0)" ;
     wdata:P8814 "08758708-n" ;
     wdata:P9100 "mexico" ;
     wdata:P9948 "mexico" ;
@@ -2518,6 +2607,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept815" ;
     wdata:P402 "378734" ;
     wdata:P5400 "lPPMYy" ;
+    wdata:P625 "Point(50.551111 26.0675)" ;
     wdata:P8814 "08867086-n" ;
     wdata:P9100 "bahrain" ;
     wdata:P9948 "bahrain" ;
@@ -2544,6 +2634,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept851" ;
     wdata:P402 "161033" ;
     wdata:P5400 "WR0nEM" ;
+    wdata:P625 "Point(104.0 47.0)" ;
     wdata:P8814 "08991230-n|08991028-n" ;
     wdata:P9100 "mongolia" ;
     wdata:P9948 "mongolia" ;
@@ -2587,6 +2678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept17059" ;
     wdata:P402 "53296" ;
     wdata:P5400 "EMZgmP" ;
+    wdata:P625 "Point(19.216667 42.766667)" ;
     wdata:P8814 "08835087-n" ;
     wdata:P9100 "montenegro" ;
     wdata:P9948 "montenegro" ;
@@ -2607,6 +2699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept810" ;
     wdata:P402 "303427" ;
     wdata:P5400 "Oodjca" ;
+    wdata:P625 "Point(66.0 33.0)" ;
     wdata:P8061 "c_163" ;
     wdata:P8814 "08721268-n" ;
     wdata:P9100 "afghanistan" ;
@@ -2657,6 +2750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept724" ;
     wdata:P402 "3630439" ;
     wdata:P5400 "eV1uWJ" ;
+    wdata:P625 "Point(-6.0 32.0)" ;
     wdata:P8061 "c_4940" ;
     wdata:P8814 "08991642-n" ;
     wdata:P9100 "morocco" ;
@@ -2684,6 +2778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept725" ;
     wdata:P402 "195273" ;
     wdata:P5400 "Zj8cGr" ;
+    wdata:P625 "Point(35.0 -19.0)" ;
     wdata:P8061 "c_4964" ;
     wdata:P8814 "08993376-n" ;
     wdata:P9100 "mozambique" ;
@@ -2705,6 +2800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept816" ;
     wdata:P402 "184640" ;
     wdata:P5400 "LHNyoE" ;
+    wdata:P625 "Point(89.866667 24.016667)" ;
     wdata:P8814 "08867723-n" ;
     wdata:P9100 "bangladesh" ;
     wdata:P9948 "bangladesh" ;
@@ -2737,6 +2833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept857" ;
     wdata:P402 "305138" ;
     wdata:P5400 "MnEFdF" ;
+    wdata:P625 "Point(57.0 21.0)" ;
     wdata:P8814 "08997476-n" ;
     wdata:P9100 "oman" ;
     wdata:P9948 "oman" ;
@@ -2763,6 +2860,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept726" ;
     wdata:P402 "195266" ;
     wdata:P5400 "0S7FBM" ;
+    wdata:P625 "Point(17.0 -23.0)" ;
     wdata:P8061 "c_5063" ;
     wdata:P8814 "08717468-n" ;
     wdata:P9100 "namibia" ;
@@ -2807,6 +2905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept852" ;
     wdata:P402 "571804" ;
     wdata:P5400 "iW8MTJ" ;
+    wdata:P625 "Point(166.933333333 -0.533333333)" ;
     wdata:P8814 "08860475-n|08860201-n" ;
     wdata:P9948 "nauru" ;
     wdata:Q43649390 "Q697" ;
@@ -2832,6 +2931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept14502" ;
     wdata:P402 "184633" ;
     wdata:P5400 "QC3crY" ;
+    wdata:P625 "Point(84.0 28.0)" ;
     wdata:P8814 "08926147-n" ;
     wdata:P9100 "nepal" ;
     wdata:P9948 "nepal" ;
@@ -2858,6 +2958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept917" ;
     wdata:P402 "47796" ;
     wdata:P5400 "ujDxVI" ;
+    wdata:P625 "Point(5.55 52.316666666)" ;
     wdata:P8814 "08968866-n" ;
     wdata:P9100 "netherlands" ;
     wdata:P9948 "netherlands" ;
@@ -2895,6 +2996,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P300 "NL-AW" ;
     wdata:P3916 "concept758" ;
     wdata:P402 "1400181|1231749" ;
+    wdata:P625 "Point(-69.97422388 12.51106253)" ;
     wdata:P8814 "08766627-n" ;
     wdata:P9948 "aruba" ;
     wdata:Q43649390 "Q21203" ;
@@ -2920,6 +3022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P300 "NL-SX" ;
     wdata:P3916 "concept17085" ;
     wdata:P402 "1231790" ;
+    wdata:P625 "Point(-63.067777777 18.031944444)" ;
     wdata:P9948 "sint-maarten" ;
     wdata:Q43649390 "Q26273" ;
 .
@@ -2944,6 +3047,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept881" ;
     wdata:P402 "2177246" ;
     wdata:P5400 "6dWuIg" ;
+    wdata:P625 "Point(168.016669444 -16.633330555)" ;
     wdata:P8814 "09183568-n" ;
     wdata:P9100 "vanuatu" ;
     wdata:P9948 "vanuatu" ;
@@ -2970,6 +3074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept854" ;
     wdata:P402 "556706" ;
     wdata:P5400 "8G4jJV" ;
+    wdata:P625 "Point(174.0 -41.2)" ;
     wdata:P8814 "08994872-n" ;
     wdata:P9100 "new-zealand" ;
     wdata:P9948 "new-zealand" ;
@@ -2996,6 +3101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept790" ;
     wdata:P402 "287666" ;
     wdata:P5400 "IO6yjP" ;
+    wdata:P625 "Point(-85.0 13.0)" ;
     wdata:P8814 "08756653-n" ;
     wdata:P9100 "nicaragua" ;
     wdata:P9948 "nicaragua" ;
@@ -3022,6 +3128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept727" ;
     wdata:P402 "192786" ;
     wdata:P5400 "qK5r1S" ;
+    wdata:P625 "Point(10.0 17.0)" ;
     wdata:P8814 "08995681-n" ;
     wdata:P9100 "niger" ;
     wdata:P9948 "niger" ;
@@ -3048,6 +3155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept728" ;
     wdata:P402 "192787" ;
     wdata:P5400 "B09UbG" ;
+    wdata:P625 "Point(8.0 9.0)" ;
     wdata:P8814 "08996127-n" ;
     wdata:P9100 "nigeria" ;
     wdata:P9948 "nigeria" ;
@@ -3074,6 +3182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept855" ;
     wdata:P402 "3548481|1558556" ;
     wdata:P5400 "PuCUzN" ;
+    wdata:P625 "Point(-169.916666666 -19.05)" ;
     wdata:P9948 "niue" ;
     wdata:Q43649390 "Q34020" ;
 .
@@ -3098,6 +3207,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept14609" ;
     wdata:P402 "1059668" ;
     wdata:P5400 "yy25a1" ;
+    wdata:P625 "Point(11.0 65.0)" ;
     wdata:P8814 "08781940-n" ;
     wdata:P9100 "norway" ;
     wdata:P9948 "norway" ;
@@ -3123,6 +3233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P299 "580" ;
     wdata:P300 "US-MP" ;
     wdata:P402 "306004" ;
+    wdata:P625 "Point(145.78 16.705)" ;
     wdata:P8814 "08856856-n" ;
     wdata:P9948 "northern-mariana-islands" ;
     wdata:Q43649390 "Q16644" ;
@@ -3148,6 +3259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept849" ;
     wdata:P402 "571802" ;
     wdata:P5400 "rDdN8c" ;
+    wdata:P625 "Point(158.183333333 6.916666666)" ;
     wdata:P8814 "08856040-n" ;
     wdata:P9948 "micronesia-federated-states-of" ;
     wdata:Q43649390 "Q702" ;
@@ -3173,6 +3285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept848" ;
     wdata:P402 "571771" ;
     wdata:P5400 "c1kuRU" ;
+    wdata:P625 "Point(169.29 9.82)" ;
     wdata:P8814 "08858084-n" ;
     wdata:P9948 "marshall-islands" ;
     wdata:Q43649390 "Q709" ;
@@ -3198,6 +3311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept14719" ;
     wdata:P402 "571805" ;
     wdata:P5400 "e1T8Qp" ;
+    wdata:P625 "Point(134.55 7.466667)" ;
     wdata:P8814 "09000531-n" ;
     wdata:P9948 "palau" ;
     wdata:Q43649390 "Q695" ;
@@ -3223,6 +3337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept858" ;
     wdata:P402 "307573" ;
     wdata:P5400 "YpZQA7" ;
+    wdata:P625 "Point(71.0 30.0)" ;
     wdata:P8814 "08998272-n" ;
     wdata:P9100 "pakistan" ;
     wdata:P9948 "pakistan" ;
@@ -3266,6 +3381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept14720" ;
     wdata:P402 "307866" ;
     wdata:P5400 "w5Ug8m" ;
+    wdata:P625 "Point(147.0 -6.3)" ;
     wdata:P8814 "08863549-n" ;
     wdata:P9100 "papua-new-guinea" ;
     wdata:P9948 "papua-new-guinea" ;
@@ -3298,6 +3414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept793" ;
     wdata:P402 "287077" ;
     wdata:P5400 "VXS1ys" ;
+    wdata:P625 "Point(-58.0 -23.5)" ;
     wdata:P8814 "09000713-n" ;
     wdata:P9100 "paraguay" ;
     wdata:P9948 "paraguay" ;
@@ -3324,6 +3441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept794" ;
     wdata:P402 "288247" ;
     wdata:P5400 "OBuytt" ;
+    wdata:P625 "Point(-76.0 -9.4)" ;
     wdata:P8061 "c_5725" ;
     wdata:P8814 "09001424-n" ;
     wdata:P9100 "peru" ;
@@ -3351,6 +3469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept860" ;
     wdata:P402 "443174" ;
     wdata:P5400 "TvKcwN" ;
+    wdata:P625 "Point(123.0 12.0)" ;
     wdata:P8061 "c_5783" ;
     wdata:P8814 "09002670-n|09003614-n" ;
     wdata:P9100 "philippines" ;
@@ -3389,6 +3508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept918" ;
     wdata:P402 "49715" ;
     wdata:P5400 "Elq5jF" ;
+    wdata:P625 "Point(19.0 52.0)" ;
     wdata:P8814 "09004957-n" ;
     wdata:P9100 "poland" ;
     wdata:P9948 "poland" ;
@@ -3415,6 +3535,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept919" ;
     wdata:P402 "295480" ;
     wdata:P5400 "4dnQJL" ;
+    wdata:P625 "Point(-9.183333333 38.7)" ;
     wdata:P8814 "09007158-n" ;
     wdata:P9100 "portugal" ;
     wdata:P9948 "portugal" ;
@@ -3441,6 +3562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept714" ;
     wdata:P402 "192776" ;
     wdata:P5400 "Zxq8si" ;
+    wdata:P625 "Point(-15.0 12.0)" ;
     wdata:P8061 "c_3427" ;
     wdata:P8814 "08967545-n" ;
     wdata:P9948 "guinea-bissau" ;
@@ -3467,6 +3589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept16993" ;
     wdata:P402 "305142" ;
     wdata:P5400 "tDMr6H" ;
+    wdata:P625 "Point(125.75 -8.966667)" ;
     wdata:P8061 "c_37893|c_4436" ;
     wdata:P8814 "08794268-n" ;
     wdata:P9948 "timor-leste" ;
@@ -3510,6 +3633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept862" ;
     wdata:P402 "305095" ;
     wdata:P5400 "C7Ac3R" ;
+    wdata:P625 "Point(51.212767 25.269535)" ;
     wdata:P8814 "09009061-n|09009275-n" ;
     wdata:P9100 "qatar" ;
     wdata:P9948 "qatar" ;
@@ -3542,6 +3666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept920" ;
     wdata:P402 "90689" ;
     wdata:P5400 "2cPcLg" ;
+    wdata:P625 "Point(25.0 46.0)" ;
     wdata:P8814 "08831830-n" ;
     wdata:P9100 "romania" ;
     wdata:P9948 "romania" ;
@@ -3585,6 +3710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept731" ;
     wdata:P402 "171496" ;
     wdata:P5400 "K8O5tj" ;
+    wdata:P625 "Point(29.873888888 -1.940277777)" ;
     wdata:P8061 "c_6717" ;
     wdata:P8814 "08832898-n" ;
     wdata:P9100 "rwanda" ;
@@ -3606,6 +3732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept3750" ;
     wdata:P402 "184629" ;
     wdata:P5400 "jnHXWT" ;
+    wdata:P625 "Point(90.5 27.45)" ;
     wdata:P8814 "08871201-n" ;
     wdata:P9948 "bhutan" ;
     wdata:Q43649390 "Q917" ;
@@ -3631,6 +3758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept796" ;
     wdata:P402 "536899" ;
     wdata:P5400 "SCBQqt" ;
+    wdata:P625 "Point(-62.666669444 17.271666666)" ;
     wdata:P8814 "09009793-n" ;
     wdata:P9948 "saint-kitts-and-nevis" ;
     wdata:Q43649390 "Q763" ;
@@ -3656,6 +3784,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept797" ;
     wdata:P402 "550728" ;
     wdata:P5400 "iuzBQz" ;
+    wdata:P625 "Point(-60.966666666 13.883333333)" ;
     wdata:P8814 "09010979-n" ;
     wdata:P9948 "saint-lucia" ;
     wdata:Q43649390 "Q760" ;
@@ -3681,6 +3810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept799" ;
     wdata:P402 "550725" ;
     wdata:P5400 "AyAJ8w" ;
+    wdata:P625 "Point(-61.233333333 12.9)" ;
     wdata:P8814 "09011401-n" ;
     wdata:P9948 "saint-vincent-and-the-grenadines" ;
     wdata:Q43649390 "Q757" ;
@@ -3706,6 +3836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept734" ;
     wdata:P402 "535880" ;
     wdata:P5400 "i30qNp" ;
+    wdata:P625 "Point(6.6 0.316667)" ;
     wdata:P8061 "c_6790" ;
     wdata:P9948 "sao-tome-and-principe" ;
     wdata:Q43649390 "Q1039" ;
@@ -3737,6 +3868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept864" ;
     wdata:P402 "307584" ;
     wdata:P5400 "Sb2Fnj" ;
+    wdata:P625 "Point(44.116667 23.716667)" ;
     wdata:P8061 "c_6822" ;
     wdata:P8814 "09015658-n" ;
     wdata:P9100 "saudi-arabia" ;
@@ -3764,6 +3896,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept735" ;
     wdata:P402 "192775" ;
     wdata:P5400 "sKE50n" ;
+    wdata:P625 "Point(-14.283333 14.366667)" ;
     wdata:P8061 "c_6970" ;
     wdata:P8814 "09018232-n" ;
     wdata:P9100 "senegal" ;
@@ -3785,6 +3918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept763" ;
     wdata:P402 "252645" ;
     wdata:P5400 "mhoY1I" ;
+    wdata:P625 "Point(-64.991228611 -17.056869611)" ;
     wdata:P8061 "c_331403" ;
     wdata:P8814 "08871835-n" ;
     wdata:P9100 "bolivia" ;
@@ -3812,6 +3946,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept736" ;
     wdata:P402 "536765" ;
     wdata:P5400 "KOFcik" ;
+    wdata:P625 "Point(52.766667 -7.1)" ;
     wdata:P8814 "09018853-n" ;
     wdata:P9100 "seychelles" ;
     wdata:P9948 "seychelles" ;
@@ -3838,6 +3973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept737" ;
     wdata:P402 "192777" ;
     wdata:P5400 "pQX4Vy" ;
+    wdata:P625 "Point(-12.1 8.5)" ;
     wdata:P8814 "09019241-n" ;
     wdata:P9100 "sierra-leone" ;
     wdata:P9948 "sierra-leone" ;
@@ -3864,6 +4000,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept865" ;
     wdata:P402 "536780" ;
     wdata:P5400 "fASBLK" ;
+    wdata:P625 "Point(103.8 1.3)" ;
     wdata:P8814 "09020171-n|09019857-n" ;
     wdata:P9100 "singapore" ;
     wdata:P9948 "singapore" ;
@@ -3890,6 +4027,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept8621" ;
     wdata:P402 "14296" ;
     wdata:P5400 "V4JFs8" ;
+    wdata:P625 "Point(20.0 49.0)" ;
     wdata:P8814 "08776846-n" ;
     wdata:P9100 "slovakia" ;
     wdata:P9948 "slovakia" ;
@@ -3916,6 +4054,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept882" ;
     wdata:P402 "49915" ;
     wdata:P5400 "gVA8Ve" ;
+    wdata:P625 "Point(108.0 16.0)" ;
     wdata:P8061 "c_8227" ;
     wdata:P8814 "09185985-n" ;
     wdata:P9100 "vietnam" ;
@@ -3943,6 +4082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept8622" ;
     wdata:P402 "218657" ;
     wdata:P5400 "D0Iyab" ;
+    wdata:P625 "Point(15.0 46.0)" ;
     wdata:P8061 "c_34123" ;
     wdata:P8814 "08836296-n" ;
     wdata:P9100 "slovenia" ;
@@ -3970,6 +4110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept738" ;
     wdata:P402 "192799" ;
     wdata:P5400 "0qyuyC" ;
+    wdata:P625 "Point(47.0 6.0)" ;
     wdata:P8814 "09020930-n" ;
     wdata:P9100 "somalia" ;
     wdata:P9948 "somalia" ;
@@ -3996,6 +4137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept739" ;
     wdata:P402 "87565" ;
     wdata:P5400 "9zcFQf" ;
+    wdata:P625 "Point(24.0 -29.0)" ;
     wdata:P8061 "c_7252" ;
     wdata:P8814 "09021852-n" ;
     wdata:P9100 "south-africa" ;
@@ -4023,6 +4165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept751" ;
     wdata:P402 "195272" ;
     wdata:P5400 "XwRutN" ;
+    wdata:P625 "Point(30.0 -19.0)" ;
     wdata:P8814 "09189894-n" ;
     wdata:P9100 "zimbabwe" ;
     wdata:P9948 "zimbabwe" ;
@@ -4055,6 +4198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept17083" ;
     wdata:P402 "1656678" ;
     wdata:P5400 "Rvbyyi" ;
+    wdata:P625 "Point(30.0 7.0)" ;
     wdata:P9100 "south-sudan" ;
     wdata:P9948 "south-sudan" ;
     wdata:Q43649390 "Q958" ;
@@ -4080,6 +4224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept741" ;
     wdata:P402 "192789" ;
     wdata:P5400 "5kO8BW" ;
+    wdata:P625 "Point(32.0 15.0)" ;
     wdata:P8061 "c_7497" ;
     wdata:P8814 "09051827-n" ;
     wdata:P9100 "sudan" ;
@@ -4101,6 +4246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept692" ;
     wdata:P402 "1889339" ;
     wdata:P5400 "WprcBC" ;
+    wdata:P625 "Point(23.7 -22.2)" ;
     wdata:P8061 "c_1030" ;
     wdata:P8814 "08871381-n" ;
     wdata:P9100 "botswana" ;
@@ -4179,6 +4325,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept10481" ;
     wdata:P402 "52822" ;
     wdata:P5400 "noPfTT" ;
+    wdata:P625 "Point(15.0 61.0)" ;
     wdata:P8061 "c_7549" ;
     wdata:P8814 "08783723-n" ;
     wdata:P9100 "sweden" ;
@@ -4206,6 +4353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept924" ;
     wdata:P402 "51701" ;
     wdata:P5400 "FsQnbQ" ;
+    wdata:P625 "Point(8.231973 46.798562)" ;
     wdata:P8814 "09054023-n|09752747-n" ;
     wdata:P9100 "switzerland" ;
     wdata:P9948 "switzerland" ;
@@ -4238,6 +4386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept870" ;
     wdata:P402 "184840" ;
     wdata:P5400 "xETJ3H" ;
+    wdata:P625 "Point(38.583333 35.216667)" ;
     wdata:P8814 "09055808-n" ;
     wdata:P9100 "syria" ;
     wdata:P9948 "syria" ;
@@ -4264,6 +4413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept872" ;
     wdata:P402 "214626" ;
     wdata:P5400 "Qau1oO" ;
+    wdata:P625 "Point(71.366667 38.583333)" ;
     wdata:P8814 "09043331-n" ;
     wdata:P9100 "tajikistan" ;
     wdata:P9948 "tajikistan" ;
@@ -4290,6 +4440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept873" ;
     wdata:P402 "2067731" ;
     wdata:P5400 "qiwfYI" ;
+    wdata:P625 "Point(101.0 14.0)" ;
     wdata:P8814 "09058927-n" ;
     wdata:P9100 "thailand" ;
     wdata:P9948 "thailand" ;
@@ -4316,6 +4467,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept744" ;
     wdata:P402 "192782" ;
     wdata:P5400 "DshJdl" ;
+    wdata:P625 "Point(1.183333 8.25)" ;
     wdata:P8061 "c_7801" ;
     wdata:P8814 "08777819-n" ;
     wdata:P9100 "togo" ;
@@ -4337,6 +4489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept764" ;
     wdata:P402 "59470" ;
     wdata:P5400 "1jGQEW" ;
+    wdata:P625 "Point(-53.0 -14.0)" ;
     wdata:P8061 "c_1070" ;
     wdata:P8814 "08872733-n" ;
     wdata:P9100 "brazil" ;
@@ -4381,6 +4534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept802" ;
     wdata:P402 "555717" ;
     wdata:P5400 "Lgenlu" ;
+    wdata:P625 "Point(-61.516666666 10.666666666)" ;
     wdata:P8814 "08774035-n" ;
     wdata:P9100 "trinidad-and-tobago" ;
     wdata:P9948 "trinidad-and-tobago" ;
@@ -4407,6 +4561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept879" ;
     wdata:P402 "307763" ;
     wdata:P5400 "egb4Cg" ;
+    wdata:P625 "Point(54.3 24.4)" ;
     wdata:P8814 "09066665-n" ;
     wdata:P9100 "united-arab-emirates" ;
     wdata:P9948 "united-arab-emirates" ;
@@ -4433,6 +4588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept745" ;
     wdata:P402 "192757" ;
     wdata:P5400 "5MnjF6" ;
+    wdata:P625 "Point(10.0 34.0)" ;
     wdata:P8061 "c_8007" ;
     wdata:P8814 "09059869-n" ;
     wdata:P9100 "tunisia" ;
@@ -4460,6 +4616,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept876" ;
     wdata:P402 "174737" ;
     wdata:P5400 "b8c8LA" ;
+    wdata:P625 "Point(36.0 39.0)" ;
     wdata:P8061 "c_8013" ;
     wdata:P8814 "09061886-n" ;
     wdata:P9100 "turkey" ;
@@ -4487,6 +4644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept877" ;
     wdata:P402 "223026" ;
     wdata:P5400 "tcdg3x" ;
+    wdata:P625 "Point(60.0 39.0)" ;
     wdata:P8814 "09043873-n" ;
     wdata:P9100 "turkmenistan" ;
     wdata:P9948 "turkmenistan" ;
@@ -4530,6 +4688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept878" ;
     wdata:P402 "2177266" ;
     wdata:P5400 "vEl55c" ;
+    wdata:P625 "Point(178.005556 -7.475)" ;
     wdata:P8814 "08859366-n" ;
     wdata:P9948 "tuvalu" ;
     wdata:Q43649390 "Q672" ;
@@ -4561,6 +4720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept746" ;
     wdata:P402 "192796" ;
     wdata:P5400 "zdTbZ2" ;
+    wdata:P625 "Point(32.39 1.28)" ;
     wdata:P8814 "09065527-n" ;
     wdata:P9100 "uganda" ;
     wdata:P9948 "uganda" ;
@@ -4604,6 +4764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept706" ;
     wdata:P402 "1473947" ;
     wdata:P5400 "OPMufk" ;
+    wdata:P625 "Point(29.0 27.0)" ;
     wdata:P8814 "08917311-n" ;
     wdata:P9100 "egypt" ;
     wdata:P9948 "egypt" ;
@@ -4631,6 +4792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept925" ;
     wdata:P402 "62149" ;
     wdata:P5400 "BG110H|hOIv1y|oXOIPe|uLcIYS" ;
+    wdata:P625 "Point(-2.0 54.6)" ;
     wdata:P8061 "c_8068" ;
     wdata:P8814 "08879115-n" ;
     wdata:P9100 "uk|united-kingdom" ;
@@ -4658,6 +4820,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept743" ;
     wdata:P402 "195270" ;
     wdata:P5400 "y6sU6R" ;
+    wdata:P625 "Point(34.854 -6.307)" ;
     wdata:P8061 "c_7608" ;
     wdata:P8814 "09057025-n" ;
     wdata:P9100 "tanzania" ;
@@ -4691,6 +4854,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept806" ;
     wdata:P402 "148838" ;
     wdata:P5400 "wkcbUd" ;
+    wdata:P625 "Point(-98.5795 39.828175)" ;
     wdata:P8814 "09067337-n" ;
     wdata:P9948 "united-states" ;
     wdata:Q43649390 "Q30" ;
@@ -4744,6 +4908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept693" ;
     wdata:P402 "192783" ;
     wdata:P5400 "97DuN5" ;
+    wdata:P625 "Point(-2.066667 12.266667)" ;
     wdata:P8061 "c_8081" ;
     wdata:P8814 "08916686-n" ;
     wdata:P9100 "burkina-faso" ;
@@ -4771,6 +4936,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept805" ;
     wdata:P402 "287072" ;
     wdata:P5400 "H1PQ7b" ;
+    wdata:P625 "Point(-56.0 -33.0)" ;
     wdata:P8061 "c_8113" ;
     wdata:P8814 "09183088-n" ;
     wdata:P9100 "uruguay" ;
@@ -4798,6 +4964,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept880" ;
     wdata:P402 "196240" ;
     wdata:P5400 "Z5QXp8" ;
+    wdata:P625 "Point(66.0 41.0)" ;
     wdata:P8061 "c_15121" ;
     wdata:P8814 "09044635-n" ;
     wdata:P9100 "uzbekistan" ;
@@ -4825,6 +4992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept807" ;
     wdata:P402 "272644" ;
     wdata:P5400 "GNxUlk" ;
+    wdata:P625 "Point(-67.0 8.0)" ;
     wdata:P8814 "09184596-n" ;
     wdata:P9100 "venezuela" ;
     wdata:P9948 "venezuela" ;
@@ -4851,6 +5019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept863|concept884" ;
     wdata:P402 "1872673" ;
     wdata:P5400 "A71y5m" ;
+    wdata:P625 "Point(-172.2175 -13.745)" ;
     wdata:P8814 "09013861-n" ;
     wdata:P9100 "samoa" ;
     wdata:P9948 "samoa" ;
@@ -4877,6 +5046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept885" ;
     wdata:P402 "305092" ;
     wdata:P5400 "TK28iE" ;
+    wdata:P625 "Point(48.0 15.5)" ;
     wdata:P8814 "09187354-n" ;
     wdata:P9100 "yemen" ;
     wdata:P9948 "yemen" ;
@@ -4903,6 +5073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept750" ;
     wdata:P402 "195271" ;
     wdata:P5400 "ZYZjvs" ;
+    wdata:P625 "Point(28.0 -14.0)" ;
     wdata:P8061 "c_8501" ;
     wdata:P8814 "09188406-n" ;
     wdata:P9100 "zambia" ;
@@ -4924,6 +5095,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept888" ;
     wdata:P402 "53292" ;
     wdata:P5400 "m47IKp" ;
+    wdata:P625 "Point(20.0 41.0)" ;
     wdata:P8814 "08722636-n" ;
     wdata:P9100 "albania" ;
     wdata:P9948 "albania" ;
@@ -4950,6 +5122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept866" ;
     wdata:P402 "1857436" ;
     wdata:P5400 "ImxngF" ;
+    wdata:P625 "Point(159.816666666 -9.466666666)" ;
     wdata:P8814 "09020346-n" ;
     wdata:P9948 "solomon-islands" ;
     wdata:Q43649390 "Q685" ;
@@ -4992,6 +5165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     wdata:P3916 "concept817" ;
     wdata:P402 "2103120" ;
     wdata:P5400 "R3Cnv8" ;
+    wdata:P625 "Point(114.566667 4.4)" ;
     wdata:P8061 "c_1125" ;
     wdata:P8814 "08916319-n" ;
     wdata:P9100 "brunei" ;
